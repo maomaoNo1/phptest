@@ -1,6 +1,5 @@
 {
    "name": "weizy/test",
-   "version": "1.0.0",
    "require": {
         "monolog/monolog": "1.0.*",
 		"laravel/tinker": "^1.0"
