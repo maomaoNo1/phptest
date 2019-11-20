@@ -1,7 +1,12 @@
 {
    "name": "weizy/test",
-   "type": "library",
-   "description": "This is the PHP port of Hamcrest Matchers",
-   "keywords": ["test"],
-   "license": "BSD"
+   "version": "1.0.0",
+   "require": {
+        "monolog/monolog": "1.0.*"
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
 }
